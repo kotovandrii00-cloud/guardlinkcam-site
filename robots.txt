@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guardlinkcam.guardlink-app.com/sitemap.xml
